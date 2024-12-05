@@ -1,1 +1,2 @@
-This is first post.
+#Introduction to GAN: Simple Generative Adversarial Network using Pytorch.
+This is simple text.
