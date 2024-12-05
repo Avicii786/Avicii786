@@ -1,5 +1,5 @@
 
-<table border="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td>
       <img src="images/image.png" alt="Profile Image" width="100" height="100">
